@@ -1,15 +1,15 @@
-![Open Source at JarvisOpenAI](https://github.com/JarvisOpenAI/.github/blob/main/images/open-at-jarvis-openai.png) 
+![Open Source at GuardStrike](https://github.com/JarvisOpenAI/.github/blob/main/images/open-at-guardstrike.png) 
 
 ## Get Involved
 
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+* [Based on open source to establish a full stack intelligent vehicle unified platform](https://www.carsmos.ai/projects/oasis/)
+* [To provide a data and control bridge for the communication between Carla and Apollo](https://github.com/guardstrikelab/carla_apollo_bridge)
+* [Chinese community for carla projects](https://carla.org.cn/#/)
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+Visit [guardstrike.com](https://guardstrike.com/?lang=en) to learn more!
 
 ----
 
-JarvisOpenAI projects adopt the [JarvisOpenAI Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+GuardStrike projects adopt the [GuardStrike Open Source Code of Conduct](https://guardstrike.com/tech.html). For more information see the [Code of Conduct FAQ](https://bbs.carla.org.cn/).
