@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Open Source at JarvisOpenAI](https://github.com/JarvisOpenAI/.github/blob/main/images/open-at-jarvis-openai.png) 
 
 ## Get Involved
 
@@ -12,4 +12,4 @@ Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more
 
 ----
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+JarvisOpenAI projects adopt the [JarvisOpenAI Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
