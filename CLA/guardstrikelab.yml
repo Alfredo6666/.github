@@ -1,15 +1,15 @@
 cla:
-  description: This is a yml file to describe JarvisOpenAI Contributor License Agreement,
+  description: This is a yml file to describe GuardStrike Contributor License Agreement,
   content: |
     ### Contribution License Agreement
     This Contribution License Agreement (**“Agreement”**) is agreed to by the party signing below (**“You”**),
-    and conveys certain license rights to JarvisOpenAI Corporation and its affiliates (“JarvisOpenAI”) for Your
-    contributions to JarvisOpenAI open source projects. This Agreement is effective as of the latest signature
+    and conveys certain license rights to GuardStrike Corporation and its affiliates (“GuardStrike”) for Your
+    contributions to GuardStrike open source projects. This Agreement is effective as of the latest signature
     date below.
     1. **Definitions**.
     **“Code”** means the computer software code, whether in human-readable or machine-executable form,
-    that is delivered by You to JarvisOpenAI under this Agreement.
-    **“Project”** means any of the projects owned or managed by JarvisOpenAI and offered under a license
+    that is delivered by You to GuardStrike under this Agreement.
+    **“Project”** means any of the projects owned or managed by GuardStrike and offered under a license
     approved by the Open Source Initiative (www.opensource.org).
     **“Submit”** is the act of uploading, submitting, transmitting, or distributing code or other content to any
     Project, including but not limited to communication on electronic mailing lists, source code control
@@ -37,13 +37,13 @@ cla:
     desire to Submit additional Submissions for the new employer, then You agree to sign a new Agreement
     and secure permission from the new employer before Submitting those Submissions.
     5. **Licenses**.
-      * **Copyright License**. You grant JarvisOpenAI, and those who receive the Submission directly or
-    indirectly from JarvisOpenAI, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license in the
+      * **Copyright License**. You grant GuardStrike, and those who receive the Submission directly or
+    indirectly from GuardStrike, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license in the
     Submission to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute
     the Submission and such derivative works, and to sublicense any or all of the foregoing rights to third
     parties.
-      * **Patent License**. You grant JarvisOpenAI, and those who receive the Submission directly or
-    indirectly from JarvisOpenAI, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license under
+      * **Patent License**. You grant GuardStrike, and those who receive the Submission directly or
+    indirectly from GuardStrike, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license under
     Your patent claims that are necessarily infringed by the Submission or the combination of the
     Submission with the Project to which it was Submitted to make, have made, use, offer to sell, sell and
     import or otherwise dispose of the Submission alone or with the Project.
@@ -62,7 +62,7 @@ cla:
     EXPRESSLY STATED IN SECTIONS 3, 4, AND 6, THE SUBMISSION PROVIDED UNDER THIS AGREEMENT IS
     PROVIDED WITHOUT WARRANTY OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF
     NONINFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
-    7. **Notice to JarvisOpenAI**. You agree to notify JarvisOpenAI in writing of any facts or circumstances of which
+    7. **Notice to GuardStrike**. You agree to notify GuardStrike in writing of any facts or circumstances of which
     You later become aware that would make Your representations in this Agreement inaccurate in any
     respect.
     8. **Information about Submissions**. You agree that contributions to Projects and information about
@@ -75,4 +75,4 @@ cla:
     defenses of lack of personal jurisdiction and forum non-conveniens.
     10. **Entire Agreement/Assignment**. This Agreement is the entire agreement between the parties, and
     supersedes any and all prior agreements, understandings or communications, written or oral, between
-    the parties relating to the subject matter hereof. This Agreement may be assigned by JarvisOpenAI.
+    the parties relating to the subject matter hereof. This Agreement may be assigned by GuardStrike.

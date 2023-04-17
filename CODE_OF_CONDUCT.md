@@ -1,9 +1,9 @@
-# JarvisOpenAI Open Source Code of Conduct
+# GuardStrike Open Source Code of Conduct
 
-This project has adopted the [JarvisOpenAI Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+This project has adopted the [GuardStrike Open Source Code of Conduct](https://www.carsmos.ai/projects/).
 
 Resources:
 
-- [JarvisOpenAI Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
-- [JarvisOpenAI Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
-- Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with questions or concerns
+- [GuardStrike Open Source Code of Conduct](https://www.carsmos.ai/projects/)
+- [GuardStrike Code of Conduct FAQ](https://bbs.carla.org.cn/)
+- Contact [carsmos@guardstrike.com](mailto:carsmos@guardstrike.com) with questions or concerns

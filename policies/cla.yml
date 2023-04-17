@@ -8,7 +8,7 @@ where:
 
 configuration: 
    cla:
-      content: https://raw.githubusercontent.com/JarvisOpenAI/.github/main/CLA/jarvisopenai.yml
+      content: https://raw.githubusercontent.com/guardstrikelab/.github/main/CLA/guardstrikelab.yml
       minimalChangeRequired: 
          files: 2
          codeLines: 16
@@ -110,13 +110,7 @@ configuration:
          - OhMyGuus-Bot
          - podman-desktop-bot
          - liurunliang-bot
-         - playwrightmachine
-         - openpublishbuild
-         - opbld27
-         - opbld15
-         - opbld16
-         - opbld17
-         - VSC-Service-Account
+
       prohibitedCompanies:
          - msft
       autoSignMsftEmployee: true

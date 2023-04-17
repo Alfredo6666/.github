@@ -1,18 +1,18 @@
-<!-- BEGIN JARVISOPENAI SECURITY.MD V0.0.5 BLOCK -->
+<!-- BEGIN GUARDSTRIKE SECURITY.MD V0.0.5 BLOCK -->
 
 # Security
 
-JarvisOpenAI takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [JarvisOpenAI](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com).
+GuardStrike takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [GuardStrike](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com).
 
-If you believe you have found a security vulnerability in any JarvisOpenAI-owned repository that meets [JarvisOpenAI's definition of a security vulnerability](https://learn.microsoft.com/previous-versions/tn-archive/cc751383(v=technet.10)), please report it to us as described below.
+If you believe you have found a security vulnerability in any GuardStrike-owned repository that meets [GuardStrike's definition of a security vulnerability](https://learn.microsoft.com/previous-versions/tn-archive/cc751383(v=technet.10)), please report it to us as described below.
 
 ## Reporting Security Issues
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them to the JarvisOpenAI Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://msrc.JarvisOpenAI.com/create-report).
+Instead, please report them to the GuardStrike Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://msrc.GuardStrike.com/create-report).
 
-If you prefer to submit without logging in, send email to [secure@microsoft.com](mailto:secure@microsoft.com).  If possible, encrypt your message with our PGP key; please download it from the [JarvisOpenAI Security Response Center PGP Key page](https://www.microsoft.com/msrc/pgp-key-msrc).
+If you prefer to submit without logging in, send email to [secure@microsoft.com](mailto:secure@microsoft.com).  If possible, encrypt your message with our PGP key; please download it from the [GuardStrike Security Response Center PGP Key page](https://www.microsoft.com/msrc/pgp-key-msrc).
 
 You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc). 
 
@@ -28,7 +28,7 @@ Please include the requested information listed below (as much as you can provid
 
 This information will help us triage your report more quickly.
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [JarvisOpenAI Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
+If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [GuardStrike Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
 
 ## Preferred Languages
 
@@ -36,6 +36,6 @@ We prefer all communications to be in English.
 
 ## Policy
 
-JarvisOpenAI follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/msrc/cvd).
+GuardStrike follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/msrc/cvd).
 
-<!-- END JARVISOPENAI SECURITY.MD BLOCK -->
+<!-- END GUARDSTRIKE SECURITY.MD BLOCK -->
