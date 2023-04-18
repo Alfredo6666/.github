@@ -8,7 +8,7 @@ Right now, open communities are building amazing software together, and there ar
 * [To provide a data and control bridge for the communication between Carla and Apollo](https://github.com/guardstrikelab/carla_apollo_bridge)
 * [Chinese community for carla projects](https://carla.org.cn/#/)
 
-Visit [guardstrike.com](https://guardstrike.com/?lang=en) to learn more!
+Visit [guardstrike.com](https://guardstrike.com/?lang=en) to learn more! Contact us via <a href="mailto:labs@guardstrike.com">email us</a> or [visit here](https://www.guardstrike.com/index.html#contact).
 
 ----
 
