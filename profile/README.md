@@ -10,6 +10,6 @@ Right now, open communities are building amazing software together, and there ar
 
 Visit [guardstrike.com](https://guardstrike.com/?lang=en) to learn more! Contact us via <a href="mailto:labs@guardstrike.com">email us</a> or [visit here](https://www.guardstrike.com/index.html#contact).
 
-----
+[//]: # (----)
 
 [//]: # (GuardStrike projects adopt the [GuardStrike Open Source Code of Conduct]&#40;https://guardstrike.com/tech.html&#41;. For more information see the [Code of Conduct FAQ]&#40;https://bbs.carla.org.cn/&#41;.)
