@@ -12,4 +12,4 @@ Visit [guardstrike.com](https://guardstrike.com/?lang=en) to learn more! Contact
 
 ----
 
-GuardStrike projects adopt the [GuardStrike Open Source Code of Conduct](https://guardstrike.com/tech.html). For more information see the [Code of Conduct FAQ](https://bbs.carla.org.cn/).
+[//]: # (GuardStrike projects adopt the [GuardStrike Open Source Code of Conduct]&#40;https://guardstrike.com/tech.html&#41;. For more information see the [Code of Conduct FAQ]&#40;https://bbs.carla.org.cn/&#41;.)
